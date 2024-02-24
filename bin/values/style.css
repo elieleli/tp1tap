@@ -1,0 +1,12 @@
+.background-image{
+    -fx-background-image: url("file:/home/jeane/Documentos/Eliel/tb1/TP1/src/img/teste1.png");
+    -fx-background-repeat: stretch;
+}
+
+.top-bar{
+    -fx-background-color: rgba(3, 123, 131, 0.957);
+}
+
+.text-bar{
+    -fx-background-color: rgba(255, 255, 255, 0.952);
+}
